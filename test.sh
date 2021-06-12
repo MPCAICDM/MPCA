@@ -1,0 +1,1 @@
+python evaluate_roc_auc.py --dataset mnist --algo_name lsa-0.1 --results_dir=/data/ljh/anodetec_results

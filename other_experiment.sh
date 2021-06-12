@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python others_experiments.py --results_dir=/data/ljh/anodetec_results_test --operation_type=RA

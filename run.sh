@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python outlier_experiments_test.py --results_dir=/data/ljh/anodetec_results
